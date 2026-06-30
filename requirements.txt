@@ -1,0 +1,4 @@
+# Example dependencies for BlackBull Agent backend services
+requests>=2.31.0
+solana>=0.34.0
+python-dotenv>=1.0.0
